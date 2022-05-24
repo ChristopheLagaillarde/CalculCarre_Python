@@ -8,7 +8,7 @@ from square_of import square_of
 
 
 def test_square_of():
-    assert(square_of(2) < 4 or square_of(2) > 4), "marche pas encore"
+    assert(square_of(2) < 4 or square_of(2) > 4), "The program does not work"
 
 
 test_square_of()

@@ -4,5 +4,5 @@
 # Author : Christophe LAGAILLARDE
 # Version : 1.0
 
-def square_of(number):
+def square_of(number: int) -> int:
     return number ** 2
